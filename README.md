@@ -1,4 +1,4 @@
-# 🤗 Empathetic Chatbot - Transformer from Scratch
+﻿# 🤗 Empathetic Chatbot - Transformer from Scratch
 
 A complete implementation of a Transformer encoder-decoder model built from scratch for generating empathetic responses. This project demonstrates deep learning fundamentals without using pre-trained models.
 
@@ -23,6 +23,16 @@ A complete implementation of a Transformer encoder-decoder model built from scra
 - [Future Improvements](#future-improvements)
 
 ---
+
+
+## ðŸ–¼ï¸ Screenshots
+
+![Screenshot](assets/Screenshot%202026-06-18%20212600.png)
+
+![Screenshot](assets/Screenshot%202026-06-18%20212721.png)
+
+![Screenshot](assets/Screenshot%202026-06-18%20212811.png)
+
 
 ## 🎯 Overview
 
@@ -600,5 +610,3 @@ If you found this project helpful, please give it a star! ⭐
 ![Screenshot](assets/Screenshot%202026-06-18%20212721.png)
 
 ![Screenshot](assets/Screenshot%202026-06-18%20212811.png)
-
-
